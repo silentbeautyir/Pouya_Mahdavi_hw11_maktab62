@@ -1,0 +1,14 @@
+* {
+  background-color: black;
+}
+.img {
+  width: 400px;
+  height: 200px;
+}
+.script {
+  color: red;
+}
+.text {
+  color: royalblue;
+  font-size: 50px;
+}
